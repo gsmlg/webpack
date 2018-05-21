@@ -1,0 +1,36 @@
+*.o
+*.a
+*.so
+*_bak
+*.log
+*.pid
+*.gem
+*.pyc
+*.swp
+*.db
+*.DS_Store
+*.un~
+.sass-cache
+node_modules
+offline-build
+/node_modules
+/test/js
+/test/browsertest/js
+/test/fixtures/temp-cache-fixture
+/benchmark/js
+/benchmark/fixtures
+/examples/**/js
+/coverage
+.DS_Store
+*.log
+.idea
+.vscode
+
+# tern port
+\.tern-port
+
+# emacs temp files
+\#*\#
+\.\#*
+\.*un~
+
