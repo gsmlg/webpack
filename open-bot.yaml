@@ -251,7 +251,7 @@ rules:
 
         @{{issue.user.login}} Please check if this is appliable to your PR and if you can add more test cases.
 
-        Read the [test readme](https://github.com/webpack/webpack/blob/master/test/README.md) for details how to write test cases.
+        Read the [test readme](https://github.com/gsmlg/webpack/blob/master/test/README.md) for details how to write test cases.
 
 
 

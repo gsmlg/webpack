@@ -20,13 +20,13 @@ that include your webpack.config.js and relevant files are more likely to receiv
 If you have created your own loader/plugin please include it on the relevant
 documentation pages:
 
-[List of loaders](https://webpack.js.org/loaders/) or [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack#loaders)
-[List of plugins](https://webpack.js.org/plugins) or [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack#webpack-plugins)
+[List of loaders](https://webpack.js.org/loaders/) or [awesome-webpack](https://github.com/gsmlg-contrib/awesome-webpack#loaders)
+[List of plugins](https://webpack.js.org/plugins) or [awesome-webpack](https://github.com/gsmlg-contrib/awesome-webpack#webpack-plugins)
 
 ## Setup
 
 ```bash
-git clone https://github.com/webpack/webpack.git
+git clone https://github.com/gsmlg/webpack.git
 cd webpack
 npm install -g yarn
 yarn install
