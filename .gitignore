@@ -1,18 +1,3 @@
-*.o
-*.a
-*.so
-*_bak
-*.log
-*.pid
-*.gem
-*.pyc
-*.swp
-*.db
-*.DS_Store
-*.un~
-.sass-cache
-node_modules
-offline-build
 /node_modules
 /test/js
 /test/browsertest/js
@@ -21,16 +6,9 @@ offline-build
 /benchmark/fixtures
 /examples/**/js
 /coverage
+node_modules
 .DS_Store
 *.log
 .idea
 .vscode
-
-# tern port
-\.tern-port
-
-# emacs temp files
-\#*\#
-\.\#*
-\.*un~
-
+.tern-port
